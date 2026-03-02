@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_1_whitebox.umap",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset"
 			]
 		}
 	]
