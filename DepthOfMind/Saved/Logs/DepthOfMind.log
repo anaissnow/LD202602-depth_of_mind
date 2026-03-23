@@ -2058,3 +2058,546 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.23-09.35.49:988][656]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.23-09.35.49:988][656]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.23-09.35.49:988][656]AssetCheck: /Game/YE_Assets/Level_1_whitebox Validating asset
+[2026.03.23-09.37.09:005][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3955.490723
+[2026.03.23-09.37.09:318][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-09.37.09:318][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3955.793701, Update Interval: 325.937683
+[2026.03.23-09.37.16:311][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.23-09.37.17:523][916]LogSlate: Window 'Save Content' being destroyed
+[2026.03.23-09.37.17:547][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-09.37.17:805][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.23-09.37.17:881][916]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_1_whitebox
+[2026.03.23-09.37.17:883][916]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_1_whiteboxAA0E306341E78254597E0180435623FA.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_1_whitebox.umap'
+[2026.03.23-09.37.17:899][916]LogFileHelpers: Saving map 'Level_1_whitebox' took 0.167
+[2026.03.23-09.37.17:927][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 379.283 ms (total: 3.06 sec)
+[2026.03.23-09.37.18:096][916]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-09.37.18:096][916]LogContentValidation: Enabled validators:
+[2026.03.23-09.37.18:096][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-09.37.18:096][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-09.37.18:097][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-09.37.18:097][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-09.37.18:097][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-09.37.18:097][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-09.37.18:097][916]AssetCheck: /Game/YE_Assets/Level_1_whitebox Validating asset
+[2026.03.23-09.37.40:740][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-09.37.40:949][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.03.23-09.37.41:026][672]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_1_whitebox
+[2026.03.23-09.37.41:027][672]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_1_whiteboxE2D9D1DB42E3E6C80CBEBDA8304F4B79.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_1_whitebox.umap'
+[2026.03.23-09.37.41:041][672]LogFileHelpers: Saving map 'Level_1_whitebox' took 0.167
+[2026.03.23-09.37.41:054][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 313.807 ms (total: 3.37 sec)
+[2026.03.23-09.37.41:234][672]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-09.37.41:234][672]LogContentValidation: Enabled validators:
+[2026.03.23-09.37.41:234][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-09.37.41:234][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-09.37.41:234][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-09.37.41:234][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-09.37.41:234][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-09.37.41:234][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-09.37.41:235][672]AssetCheck: /Game/YE_Assets/Level_1_whitebox Validating asset
+[2026.03.23-09.38.46:051][864]LogStreaming: Display: FlushAsyncLoading(346): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.23-09.38.51:413][864]LogSlate: Window 'New Level' being destroyed
+[2026.03.23-09.38.51:433][864]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.23-09.38.52:054][864]LogWorld: UWorld::CleanupWorld for Level_1_whitebox, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-09.38.52:067][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-09.38.52:107][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.23-09.38.52:571][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.23-09.38.52:910][864]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.03.23-09.38.52:911][864]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.03.23-09.38.53:066][864]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2026.03.23-09.38.53:094][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.23-09.38.53:097][864]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.23-09.38.53:100][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.841ms to complete.
+[2026.03.23-09.39.04:868][191]LogSlate: Window 'Save Level As' being destroyed
+[2026.03.23-09.39.05:170][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.23-09.39.05:185][191]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-09.39.05:185][191]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whiteboxA837FDEA4D49D41C67C4B89D89738FE4.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-09.39.05:239][191]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.324
+[2026.03.23-09.39.05:239][191]Cmd: MAP LOAD FILE="../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.23-09.39.05:300][191]LogWorld: UWorld::CleanupWorld for Level_2_whitebox, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-09.39.05:301][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-09.39.05:312][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.23-09.39.05:314][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.23-09.39.05:315][191]LogStreaming: Display: FlushAsyncLoading(349): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.23-09.39.05:320][191]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2_whitebox'.
+[2026.03.23-09.39.05:320][191]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2_whitebox
+[2026.03.23-09.39.05:339][191]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.23-09.39.05:351][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.03.23-09.39.05:362][191]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.23-09.39.05:362][191]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2026.03.23-09.39.05:515][191]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-09.39.05:515][191]LogContentValidation: Enabled validators:
+[2026.03.23-09.39.05:515][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-09.39.05:516][191]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-09.39.05:516][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-09.39.05:516][191]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-09.39.05:516][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-09.39.05:516][191]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-09.39.05:516][191]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-09.40.13:980][303]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.23-09.40.14:765][373]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: ================================================
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Total job queries 160, among them cache hits 10 (6.25%), DDC hits 108 (67.50%), Duplicates 4 (2.50%)
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 138 distinct outputs (94.52%)
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: RAM used: 119.04 KiB of 819.20 MiB budget. Usage: 0.01%
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Shaders Compiled: 38
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Average time worker was idle: 736.57 s
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Time job spent in pending queue: average 0.57 s, longest 3.09 s
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Job execution time: average 2.15 s, max 4.59 s
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Job life time (pending + execution): average 2.72 s, max 4.64
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Shader code size: average 7.746 KiB, min 2.379 KiB, max 13.73 KiB
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.21 s
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Average processing rate: 1.45 jobs/sec
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Total thread time: 46.724 s
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Total thread preprocess time: 5.39 s
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Percentage time preprocessing: 11.54%
+[2026.03.23-09.40.22:604][119]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 2.05 sec, max 3.07 sec, min 1.66 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.89 sec, max 1.91 sec, min 1.88 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.24 sec, max 1.77 sec, min 0.89 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 1.22 sec, max 1.24 sec, min 1.19 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.14 sec, max 1.17 sec, min 1.11 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.86% of total time (compiled    9 times, average 1.24 sec, max 1.77 sec, min 0.89 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.52% of total time (compiled    4 times, average 2.05 sec, max 3.07 sec, min 1.66 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.25% of total time (compiled    9 times, average 0.84 sec, max 1.13 sec, min 0.54 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.10% of total time (compiled    2 times, average 1.89 sec, max 1.91 sec, min 1.88 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display:                                                  FHitProxyPS - 5.51% of total time (compiled    3 times, average 0.86 sec, max 0.93 sec, min 0.81 sec)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: === Material stats ===
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Materials Translated:    127
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Material Translation Only: 0.08 s (41%)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: Material Cache Hits: 17 (13%)
+[2026.03.23-09.40.22:606][119]LogShaderCompilers: Display: ================================================
+[2026.03.23-09.42.46:656][773]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.23-09.43.11:315][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4317.810547
+[2026.03.23-09.43.11:608][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-09.43.11:608][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4318.094727, Update Interval: 312.636505
+[2026.03.23-09.44.15:975][196]Cmd: DELETE
+[2026.03.23-09.44.15:975][196]Cmd: ACTOR DELETE
+[2026.03.23-09.44.16:020][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.23-09.44.16:035][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.23-09.44.16:038][196]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.03.23-09.44.21:479][786]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.23-09.48.47:518][982]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.23-09.48.53:339][439]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.23-09.48.56:506][667]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.23-09.49.04:214][395]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.23-09.49.05:346][499]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.23-09.49.08:632][802]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.23-09.49.14:395][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.23-09.49.14:476][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.23-09.49.14:516][371]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.03.23-09.49.14:517][371]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.03.23-09.49.14:522][371]LogPlayLevel: Creating play world package: /Game/YE_Assets/UEDPIE_0_Level_2_whitebox
+[2026.03.23-09.49.14:550][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028096s)
+[2026.03.23-09.49.14:550][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox to /Game/YE_Assets/UEDPIE_0_Level_2_whitebox.Level_2_whitebox (0.028233s)
+[2026.03.23-09.49.14:569][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.23-09.49.14:575][371]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_2_whitebox
+[2026.03.23-09.49.14:583][371]LogPlayLevel: PIE: World Init took: (0.007037s)
+[2026.03.23-09.49.14:585][371]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.03.23-09.49.14:587][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.23-09.49.14:587][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.23-09.49.14:587][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.23-09.49.14:587][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.23-09.49.14:587][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.23-09.49.14:588][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.23-09.49.14:588][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.23-09.49.14:588][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.23-09.49.14:591][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.23-09.49.14:591][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.23-09.49.14:591][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.23-09.49.14:596][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.23-09.49.14:641][371]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HONOR Earbuds X5)
+[2026.03.23-09.49.14:643][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.23-09.49.14:643][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.23-09.49.14:644][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.23-09.49.14:647][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.03.23-09.49.14:647][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.03.23-09.49.14:651][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.03.23-09.49.14:651][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.03.23-09.49.14:651][371]LogInit: FAudioDevice initialized with ID 2.
+[2026.03.23-09.49.14:652][371]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_2_whitebox'.
+[2026.03.23-09.49.14:652][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.23-09.49.14:691][371]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.23-09.49.16:089][371]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Materials/Functions/CA_Mannequin.CA_Mannequin (RGBA16F, 64x64 x1x1x1) (Required Memory Estimate: 1.177074 MB), EncodeSpeed: Fast
+[2026.03.23-09.49.16:160][371]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.23-09.49.16:164][371]LogWorld: Bringing World /Game/YE_Assets/UEDPIE_0_Level_2_whitebox.Level_2_whitebox up for play (max tick rate 0) at 2026.03.23-17.49.16
+[2026.03.23-09.49.16:167][371]LogWorld: Bringing up level for play took: 0.003862
+[2026.03.23-09.49.16:172][371]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.03.23-09.49.16:251][371]PIE: Server logged in
+[2026.03.23-09.49.16:253][371]PIE: Play in editor total start time 1.809 seconds.
+[2026.03.23-09.49.16:350][372]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058993 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2026.03.23-09.49.17:527][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4684.013184
+[2026.03.23-09.49.17:839][485]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-09.49.17:839][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4684.315918, Update Interval: 342.705170
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: ================================================
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Total job queries 164, among them cache hits 10 (6.10%), DDC hits 108 (65.85%), Duplicates 4 (2.44%)
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Tracking 150 distinct input hashes that result in 140 distinct outputs (93.33%)
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: RAM used: 119.69 KiB of 819.20 MiB budget. Usage: 0.01%
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Shaders Compiled: 42
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Jobs assigned 42, completed 42 (100%)
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Average time worker was idle: 745.27 s
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 3.09 s
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Job execution time: average 2.11 s, max 4.59 s
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Job life time (pending + execution): average 2.63 s, max 4.64
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Shader code size: average 7.899 KiB, min 2.379 KiB, max 13.73 KiB
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.12 s
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Average processing rate: 1.49 jobs/sec
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Total thread time: 50.049 s
+[2026.03.23-09.49.22:615][985]LogShaderCompilers: Display: Total thread preprocess time: 5.504 s
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Percentage time preprocessing: 11.00%
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 2.05 sec, max 3.07 sec, min 1.66 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.89 sec, max 1.91 sec, min 1.88 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 1.22 sec, max 1.24 sec, min 1.19 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 1.19 sec, max 1.77 sec, min 0.89 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.14 sec, max 1.17 sec, min 1.11 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.24% of total time (compiled   11 times, average 1.19 sec, max 1.77 sec, min 0.89 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.85% of total time (compiled   11 times, average 0.81 sec, max 1.13 sec, min 0.54 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.36% of total time (compiled    4 times, average 2.05 sec, max 3.07 sec, min 1.66 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.56% of total time (compiled    2 times, average 1.89 sec, max 1.91 sec, min 1.88 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display:                                                  FHitProxyPS - 5.15% of total time (compiled    3 times, average 0.86 sec, max 0.93 sec, min 0.81 sec)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: === Material stats ===
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Materials Translated:    129
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Material Translation Only: 0.08 s (42%)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: Material Cache Hits: 17 (13%)
+[2026.03.23-09.49.22:617][985]LogShaderCompilers: Display: ================================================
+[2026.03.23-09.49.25:293][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-09.49.25:293][265]LogWorld: BeginTearingDown for /Game/YE_Assets/UEDPIE_0_Level_2_whitebox
+[2026.03.23-09.49.25:293][265]LogWorld: UWorld::CleanupWorld for Level_2_whitebox, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-09.49.25:293][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-09.49.25:300][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.23-09.49.25:306][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-09.49.25:330][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-09.49.25:331][265]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.23-09.49.25:331][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.03.23-09.49.25:335][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.03.23-09.49.25:349][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.23-09.49.25:446][266]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.03.23-09.51.20:013][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.23-09.51.20:059][325]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YE_Assets/Level_2_whitebox_Auto1
+[2026.03.23-09.51.20:059][325]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whitebox_Auto13A9EE5A84816D0C1B824E8A7E1FD7925.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Autosaves/Game/YE_Assets/Level_2_whitebox_Auto1.umap'
+[2026.03.23-09.51.20:064][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YE_Assets/Level_2_whitebox' took 0.074
+[2026.03.23-09.51.20:064][325]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2026.03.23-09.51.24:307][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.23-09.51.25:887][573]LogSlate: Window 'Save Content' being destroyed
+[2026.03.23-09.51.25:908][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-09.51.26:154][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.23-09.51.26:205][573]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-09.51.26:207][573]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whitebox43FF6E0D413B57B71BC4858D5F6114EE.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-09.51.26:225][573]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.129
+[2026.03.23-09.51.26:238][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 330.542 ms (total: 3.70 sec)
+[2026.03.23-09.51.26:425][573]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-09.51.26:425][573]LogContentValidation: Enabled validators:
+[2026.03.23-09.51.26:425][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-09.51.26:425][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-09.51.26:425][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-09.51.26:425][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-09.51.26:425][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-09.51.26:425][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-09.51.26:426][573]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-09.54.47:317][962]LogStreaming: Display: FlushAsyncLoading(351): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.23-09.55.32:490][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5058.939941
+[2026.03.23-09.55.32:801][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-09.55.32:801][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5059.246094, Update Interval: 354.448059
+[2026.03.23-09.55.46:268][379]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414374086312652157
+[2026.03.23-09.55.46:268][379]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.03.23-09.55.46:270][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-09.55.48:855][521]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.23-09.58.35:577][488]Cmd: DELETE
+[2026.03.23-09.58.35:577][488]Cmd: ACTOR DELETE
+[2026.03.23-09.58.35:710][488]LogEditorActor: Deleted Actor: Brush
+[2026.03.23-09.58.35:839][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2026.03.23-09.58.35:886][488]LogEditorActor: Deleted 1 Actors (0.285 secs)
+[2026.03.23-10.00.26:009][335]Cmd: DUPLICATE
+[2026.03.23-10.00.26:009][335]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.02.07:317][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5453.757812
+[2026.03.23-10.02.07:659][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.02.07:659][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5454.082520, Update Interval: 314.277161
+[2026.03.23-10.02.38:256][874]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.23-10.05.22:547][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2026.03.23-10.05.22:722][650]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YE_Assets/Level_2_whitebox_Auto2
+[2026.03.23-10.05.22:723][650]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whitebox_Auto219355E7F493B78FDDE1F0BBA3048B55D.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Autosaves/Game/YE_Assets/Level_2_whitebox_Auto2.umap'
+[2026.03.23-10.05.22:746][650]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YE_Assets/Level_2_whitebox' took 0.306
+[2026.03.23-10.05.22:746][650]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.306
+[2026.03.23-10.05.26:132][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.23-10.05.27:289][845]LogSlate: Window 'Save Content' being destroyed
+[2026.03.23-10.05.27:326][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-10.05.27:585][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.23-10.05.27:705][845]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-10.05.27:707][845]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whitebox6A0E965F486B048D60B08A93EA2484BC.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-10.05.27:743][845]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.249
+[2026.03.23-10.05.27:757][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 429.578 ms (total: 4.13 sec)
+[2026.03.23-10.05.27:934][845]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-10.05.27:934][845]LogContentValidation: Enabled validators:
+[2026.03.23-10.05.27:935][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-10.05.27:935][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-10.05.27:935][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-10.05.27:935][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-10.05.27:935][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-10.05.27:935][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-10.05.27:937][845]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-10.05.36:708][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.05.36:708][356]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.05.36:712][356]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_1
+[2026.03.23-10.05.36:719][356]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_1
+[2026.03.23-10.05.37:191][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.23-10.05.37:192][380]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2026.03.23-10.05.37:198][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.05.37:198][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.05.37:200][380]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_2
+[2026.03.23-10.05.37:200][380]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_2
+[2026.03.23-10.06.32:470][594]Cmd: DUPLICATE
+[2026.03.23-10.06.32:470][594]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.06.39:513][  5]Cmd: DUPLICATE
+[2026.03.23-10.06.39:513][  5]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.07.56:368][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5802.800293
+[2026.03.23-10.07.57:701][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.07.57:701][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5803.799316, Update Interval: 322.147278
+[2026.03.23-10.09.25:935][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.23-10.09.27:301][136]LogSlate: Window 'Save Content' being destroyed
+[2026.03.23-10.09.27:330][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-10.09.27:588][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.23-10.09.27:703][136]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-10.09.27:705][136]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whiteboxE7CD526A4C665575D8C2AB9AF93DB81B.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-10.09.27:721][136]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.215
+[2026.03.23-10.09.27:735][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 405.241 ms (total: 4.54 sec)
+[2026.03.23-10.09.27:907][136]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-10.09.27:907][136]LogContentValidation: Enabled validators:
+[2026.03.23-10.09.27:907][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-10.09.27:907][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-10.09.27:907][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-10.09.27:907][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-10.09.27:907][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-10.09.27:907][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-10.09.27:907][136]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-10.14.13:571][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6179.999023
+[2026.03.23-10.14.14:558][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.14.14:558][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6180.666992, Update Interval: 316.558746
+[2026.03.23-10.20.04:938][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6531.379883
+[2026.03.23-10.20.06:272][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.20.06:283][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6532.379395, Update Interval: 349.328278
+[2026.03.23-10.26.39:334][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6925.781738
+[2026.03.23-10.26.40:334][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.26.40:335][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6926.448242, Update Interval: 349.595642
+[2026.03.23-10.30.58:577][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.30.58:579][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.30.58:649][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_6
+[2026.03.23-10.30.58:694][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_6
+[2026.03.23-10.30.59:338][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2026.03.23-10.30.59:365][ 64]LogEditorActor: Deleted 0 Actors (0.364 secs)
+[2026.03.23-10.30.59:374][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.30.59:374][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.30.59:401][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_7
+[2026.03.23-10.30.59:402][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_7
+[2026.03.23-10.31.55:171][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.31.55:171][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.31.55:171][180]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_8
+[2026.03.23-10.31.55:172][180]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_8
+[2026.03.23-10.31.55:668][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.23-10.31.55:671][206]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2026.03.23-10.31.55:679][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.31.55:679][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.31.55:681][206]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_9
+[2026.03.23-10.31.55:682][206]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_9
+[2026.03.23-10.32.20:063][643]Cmd: DUPLICATE
+[2026.03.23-10.32.20:064][643]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.32.20:646][670]Cmd: DUPLICATE
+[2026.03.23-10.32.20:646][670]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.33.00:838][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7307.279297
+[2026.03.23-10.33.01:562][ 77]LogDerivedDataCache: C:/Users/yueer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.23-10.33.01:637][ 81]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.33.01:638][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7308.063477, Update Interval: 319.746704
+[2026.03.23-10.33.17:890][  9]Cmd: DUPLICATE
+[2026.03.23-10.33.17:890][  9]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.33.41:720][319]Cmd: TRANSACTION UNDO
+[2026.03.23-10.33.41:720][319]LogEditorTransaction: Undo Move Elements
+[2026.03.23-10.34.54:005][992]Cmd: DUPLICATE
+[2026.03.23-10.34.54:006][992]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.35.48:566][533]Cmd: DUPLICATE
+[2026.03.23-10.35.48:567][533]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.36.45:784][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2026.03.23-10.36.48:140][623]LogSlate: Window 'Save Content' being destroyed
+[2026.03.23-10.36.48:173][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-10.36.48:531][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.03.23-10.36.48:710][623]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-10.36.48:712][623]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whiteboxC242F33D4EFE66CC9ECD88BEBC0270AD.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-10.36.48:752][623]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.363
+[2026.03.23-10.36.48:766][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 592.477 ms (total: 5.13 sec)
+[2026.03.23-10.36.48:961][623]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-10.36.48:961][623]LogContentValidation: Enabled validators:
+[2026.03.23-10.36.48:961][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-10.36.48:962][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-10.36.48:962][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-10.36.48:962][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-10.36.48:962][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-10.36.48:962][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-10.36.48:964][623]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-10.37.04:487][634]Cmd: DUPLICATE
+[2026.03.23-10.37.04:487][634]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.37.51:189][847]Cmd: DUPLICATE
+[2026.03.23-10.37.51:189][847]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.38.24:668][582]Cmd: DUPLICATE
+[2026.03.23-10.38.24:668][582]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.39.08:218][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7674.634277
+[2026.03.23-10.39.08:525][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.39.08:525][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7674.929199, Update Interval: 357.278961
+[2026.03.23-10.39.26:861][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.03.23-10.39.29:746][564]LogSlate: Window 'Save Content' being destroyed
+[2026.03.23-10.39.29:781][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-10.39.30:078][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.23-10.39.30:247][564]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-10.39.30:248][564]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whiteboxFFED086E4F632208063E899A44ACED23.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-10.39.30:271][564]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.304
+[2026.03.23-10.39.30:285][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 503.891 ms (total: 5.63 sec)
+[2026.03.23-10.39.30:491][564]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-10.39.30:491][564]LogContentValidation: Enabled validators:
+[2026.03.23-10.39.30:491][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-10.39.30:491][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-10.39.30:491][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-10.39.30:491][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-10.39.30:491][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-10.39.30:491][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-10.39.30:491][564]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-10.41.12:101][880]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.03.23-10.41.12:123][881]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.23-10.41.12:125][881]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=43932
+[2026.03.23-10.41.12:671][927]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.23-10.41.12:678][927]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{91d77a9d-0f34-4c35-93f1-460eac0f6753}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=545.84
+[2026.03.23-10.41.12:678][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.23-10.41.12:682][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.23-10.41.22:946][ 95]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (HONOR Earbuds X5), InstanceID=1
+[2026.03.23-10.41.22:947][ 95]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.23-10.41.22:947][ 95]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=43932
+[2026.03.23-10.41.23:064][103]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.23-10.41.23:068][103]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{8b838a9b-8c36-499e-9579-e6d973a42cec}, Name=Headphones (HONOR Earbuds X5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=111.51
+[2026.03.23-10.41.23:068][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.23-10.41.23:071][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.23-10.44.01:080][393]Cmd: DUPLICATE
+[2026.03.23-10.44.01:080][393]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.45.28:199][506]Cmd: DUPLICATE
+[2026.03.23-10.45.28:199][506]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.46.01:846][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8088.249512
+[2026.03.23-10.46.02:176][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.46.02:176][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8088.561523, Update Interval: 358.963593
+[2026.03.23-10.46.35:850][374]Cmd: DUPLICATE
+[2026.03.23-10.46.35:850][374]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.48.33:117][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.23-10.48.33:117][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.23-10.48.33:120][566]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_12
+[2026.03.23-10.48.33:126][566]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_12
+[2026.03.23-10.48.34:213][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2026.03.23-10.48.34:225][629]LogEditorActor: Deleted 0 Actors (0.333 secs)
+[2026.03.23-10.48.34:232][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.23-10.48.34:232][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.23-10.48.34:238][629]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_13
+[2026.03.23-10.48.34:239][629]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_13
+[2026.03.23-10.49.05:675][612]Cmd: DUPLICATE
+[2026.03.23-10.49.05:675][612]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.51.15:811][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-10.51.16:165][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.03.23-10.51.16:407][ 33]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-10.51.16:409][ 33]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whitebox961D36804652B948844C4FB6DFE4C591.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-10.51.16:450][ 33]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.481
+[2026.03.23-10.51.16:463][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 651.761 ms (total: 6.28 sec)
+[2026.03.23-10.51.16:653][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-10.51.16:654][ 33]LogContentValidation: Enabled validators:
+[2026.03.23-10.51.16:654][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-10.51.16:654][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-10.51.16:654][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-10.51.16:654][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-10.51.16:654][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-10.51.16:654][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-10.51.16:656][ 33]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-10.51.47:043][242]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.23-10.52.43:239][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8489.656250
+[2026.03.23-10.52.43:564][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.52.43:566][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8489.984375, Update Interval: 304.376343
+[2026.03.23-10.53.15:417][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-10.53.15:755][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2026.03.23-10.53.15:993][979]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-10.53.15:995][979]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whitebox11A45AA74C77366106289C8438C4C74D.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-10.53.16:013][979]LogFileHelpers: Saving map 'Level_2_whitebox' took 0.449
+[2026.03.23-10.53.16:026][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 607.687 ms (total: 6.89 sec)
+[2026.03.23-10.53.16:204][979]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-10.53.16:204][979]LogContentValidation: Enabled validators:
+[2026.03.23-10.53.16:204][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-10.53.16:204][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-10.53.16:204][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-10.53.16:204][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-10.53.16:204][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-10.53.16:204][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-10.53.16:204][979]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
+[2026.03.23-10.53.56:750][172]Cmd: DUPLICATE
+[2026.03.23-10.53.56:750][172]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.54.54:791][150]Cmd: DUPLICATE
+[2026.03.23-10.54.54:791][150]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.56.02:971][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.02:971][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.02:974][828]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_14
+[2026.03.23-10.56.02:980][828]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_14
+[2026.03.23-10.56.03:497][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2026.03.23-10.56.03:500][864]LogEditorActor: Deleted 0 Actors (0.139 secs)
+[2026.03.23-10.56.03:507][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.03:507][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.03:513][864]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_15
+[2026.03.23-10.56.03:513][864]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_15
+[2026.03.23-10.56.53:825][826]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.53:825][826]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.53:826][826]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_16
+[2026.03.23-10.56.53:826][826]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_16
+[2026.03.23-10.56.54:538][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.23-10.56.54:540][872]LogEditorActor: Deleted 0 Actors (0.132 secs)
+[2026.03.23-10.56.54:548][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.54:548][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.23-10.56.54:551][872]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_17
+[2026.03.23-10.56.54:551][872]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_17
+[2026.03.23-10.57.22:655][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.23-10.57.22:655][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.23-10.57.22:655][440]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_18
+[2026.03.23-10.57.22:657][440]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_18
+[2026.03.23-10.57.24:978][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.23-10.57.24:983][636]LogEditorActor: Deleted 0 Actors (0.131 secs)
+[2026.03.23-10.57.24:991][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.23-10.57.24:991][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.23-10.57.24:994][636]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_19
+[2026.03.23-10.57.24:995][636]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/YE_Assets/Level_2_whitebox.Level_2_whitebox:PersistentLevel.StaticMeshActor_19
+[2026.03.23-10.58.16:821][ 89]Cmd: DUPLICATE
+[2026.03.23-10.58.16:821][ 89]Cmd: ACTOR DUPLICATE
+[2026.03.23-10.58.16:821][ 89]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.03.23-10.58.42:366][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8848.910156
+[2026.03.23-10.58.42:706][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-10.58.42:706][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8849.237305, Update Interval: 342.591644
+[2026.03.23-11.01.42:480][205]Cmd: DUPLICATE
+[2026.03.23-11.01.42:480][205]Cmd: ACTOR DUPLICATE
+[2026.03.23-11.02.43:163][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-11.02.44:036][567]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2026.03.23-11.02.44:429][567]LogSavePackage: Moving output files for package: /Game/YE_Assets/Level_2_whitebox
+[2026.03.23-11.02.44:431][567]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/Level_2_whiteboxF43B0EEB48A55E942C61AA8A2F5A03BC.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap'
+[2026.03.23-11.02.44:481][567]LogFileHelpers: Saving map 'Level_2_whitebox' took 1.151
+[2026.03.23-11.02.44:496][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.33 sec (total: 8.23 sec)
+[2026.03.23-11.02.44:705][567]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-11.02.44:705][567]LogContentValidation: Enabled validators:
+[2026.03.23-11.02.44:706][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-11.02.44:706][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-11.02.44:706][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-11.02.44:706][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-11.02.44:706][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-11.02.44:706][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-11.02.44:710][567]AssetCheck: /Game/YE_Assets/Level_2_whitebox Validating asset
