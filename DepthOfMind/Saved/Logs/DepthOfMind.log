@@ -78956,3 +78956,111 @@ Script Stack (0 frames) :
 [2026.04.22-05.30.23:623][730]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
 [2026.04.22-05.30.23:623][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.04.22-05.30.23:709][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.04.22-05.31.23:407][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1693.731567
+[2026.04.22-05.31.23:721][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-05.31.23:722][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1694.035522, Update Interval: 300.265503
+[2026.04.22-05.33.43:827][510]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.BP_MainMenu
+[2026.04.22-05.33.43:874][510]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.22-05.33.44:203][510]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.22-05.34.44:010][245]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2026.04.22-05.34.44:829][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-05.34.44:992][271]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu] ([2] browsable assets)...
+[2026.04.22-05.34.44:998][271]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.BP_MainMenu]
+[2026.04.22-05.34.44:999][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu]
+[2026.04.22-05.34.45:033][271]LogSavePackage: Moving output files for package: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu
+[2026.04.22-05.34.45:035][271]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/BP_MainMenu280A54E6445A7DA4F60B318AD20B3C68.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.uasset'
+[2026.04.22-05.34.45:066][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.733 ms (total: 4.19 sec)
+[2026.04.22-05.34.45:255][271]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-05.34.45:255][271]LogContentValidation: Enabled validators:
+[2026.04.22-05.34.45:256][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-05.34.45:256][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-05.34.45:256][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-05.34.45:256][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-05.34.45:256][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-05.34.45:256][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-05.34.45:258][271]AssetCheck: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu Validating asset
+[2026.04.22-05.35.15:790][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.04.22-05.35.17:727][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-05.35.17:873][ 98]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu] ([2] browsable assets)...
+[2026.04.22-05.35.17:877][ 98]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.BP_MainMenu]
+[2026.04.22-05.35.17:877][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu]
+[2026.04.22-05.35.17:889][ 98]LogSavePackage: Moving output files for package: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu
+[2026.04.22-05.35.17:890][ 98]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/BP_MainMenu66FEDB264B46EFD7BA3E64A4F7B1965E.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.uasset'
+[2026.04.22-05.35.17:908][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.250 ms (total: 4.37 sec)
+[2026.04.22-05.35.18:094][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-05.35.18:094][ 98]LogContentValidation: Enabled validators:
+[2026.04.22-05.35.18:094][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-05.35.18:094][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-05.35.18:094][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-05.35.18:094][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-05.35.18:095][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-05.35.18:095][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-05.35.18:096][ 98]AssetCheck: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu Validating asset
+[2026.04.22-05.35.37:003][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-05.35.37:186][103]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu] ([2] browsable assets)...
+[2026.04.22-05.35.37:192][103]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.BP_MainMenu]
+[2026.04.22-05.35.37:192][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu]
+[2026.04.22-05.35.37:202][103]LogSavePackage: Moving output files for package: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu
+[2026.04.22-05.35.37:205][103]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/BP_MainMenuAF9264E446C571661EC153BA72EB690C.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.uasset'
+[2026.04.22-05.35.37:229][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.852 ms (total: 4.60 sec)
+[2026.04.22-05.35.37:476][103]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-05.35.37:476][103]LogContentValidation: Enabled validators:
+[2026.04.22-05.35.37:476][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-05.35.37:476][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-05.35.37:476][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-05.35.37:476][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-05.35.37:476][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-05.35.37:476][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-05.35.37:478][103]AssetCheck: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu Validating asset
+[2026.04.22-05.35.41:667][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.04.22-05.35.42:436][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-05.35.42:594][354]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu] ([2] browsable assets)...
+[2026.04.22-05.35.42:597][354]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.BP_MainMenu]
+[2026.04.22-05.35.42:598][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu]
+[2026.04.22-05.35.42:609][354]LogSavePackage: Moving output files for package: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu
+[2026.04.22-05.35.42:610][354]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/BP_MainMenu32E668B54556E7752ADED081E3AB582D.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.uasset'
+[2026.04.22-05.35.42:632][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.521 ms (total: 4.79 sec)
+[2026.04.22-05.35.42:805][354]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-05.35.42:805][354]LogContentValidation: Enabled validators:
+[2026.04.22-05.35.42:805][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-05.35.42:805][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-05.35.42:805][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-05.35.42:805][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-05.35.42:805][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-05.35.42:805][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-05.35.42:806][354]AssetCheck: /Game/YE_Assets/YE_Blueprints/Interface/BP_MainMenu Validating asset
+[2026.04.22-05.35.43:810][412]LogSlate: Window 'BP_MainMenu' being destroyed
+[2026.04.22-05.35.43:869][412]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-05.35.43:875][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-05.35.43:917][412]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-05.35.43:917][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-05.35.44:012][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.04.22-05.35.55:979][502]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/YE_Assets/YE_Blueprints/Interface/BP_PauseMenu.BP_PauseMenu
+[2026.04.22-05.35.55:979][502]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.04.22-05.35.55:990][502]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.04.22-05.37.08:759][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2039.080688
+[2026.04.22-05.37.09:075][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-05.37.09:076][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2039.382690, Update Interval: 334.206970
+[2026.04.22-05.37.52:866][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.04.22-05.37.53:768][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-05.37.53:933][105]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/YE_Assets/YE_Blueprints/Interface/BP_PauseMenu] ([2] browsable assets)...
+[2026.04.22-05.37.53:936][105]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/YE_Assets/YE_Blueprints/Interface/BP_PauseMenu.BP_PauseMenu]
+[2026.04.22-05.37.53:936][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/YE_Assets/YE_Blueprints/Interface/BP_PauseMenu]
+[2026.04.22-05.37.53:950][105]LogSavePackage: Moving output files for package: /Game/YE_Assets/YE_Blueprints/Interface/BP_PauseMenu
+[2026.04.22-05.37.53:952][105]LogSavePackage: Moving '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Saved/BP_PauseMenu3D94712F404CB005C0F1768F15096D06.tmp' to '../../../../../../Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/BP_PauseMenu.uasset'
+[2026.04.22-05.37.53:972][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.375 ms (total: 5.00 sec)
+[2026.04.22-05.37.54:140][105]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-05.37.54:141][105]LogContentValidation: Enabled validators:
+[2026.04.22-05.37.54:141][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-05.37.54:141][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-05.37.54:141][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-05.37.54:141][105]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-05.37.54:141][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-05.37.54:141][105]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-05.37.54:142][105]AssetCheck: /Game/YE_Assets/YE_Blueprints/Interface/BP_PauseMenu Validating asset
+[2026.04.22-05.38.03:882][678]LogSlate: Window 'BP_PauseMenu' being destroyed
+[2026.04.22-05.38.03:952][678]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-05.38.03:952][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-05.38.03:964][678]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-05.38.03:964][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-05.38.04:061][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
