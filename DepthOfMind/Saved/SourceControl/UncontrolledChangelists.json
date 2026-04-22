@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_1_whitebox.umap",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/MainMenu.umap",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Abys-Regular.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Abys-Regular_Font.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/BP_MainMenu.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/M_Font_Material_Master.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/M_FloatingFont.uasset",
+				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/YE_Blueprints/Interface/M_WaveFont.uasset",
 				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_1_whitebox.umap",
 				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/Props/Shelf/Shelf1/Material.uasset",
 				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/Props/Shelf/Shelf1/plywood_diff_2k.uasset",
@@ -422,11 +433,7 @@
 				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/Texture/Floor/granite_tile_04_diff_2k.uasset",
 				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/Texture/Floor/2/FLoor2.uasset",
 				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/Texture/Floor/3/Floor.uasset",
-				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/Texture/Wall/Walltexture.uasset",
-				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_1_whitebox.umap",
-				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
-				"C:/Users/yueer/Desktop/LD202602-depth_of_mind/DepthOfMind/Content/YE_Assets/Level_2_whitebox.umap"
+				"C:/00-WindowsData/Documents/GitHub/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/Texture/Wall/Walltexture.uasset"
 			]
 		}
 	]
