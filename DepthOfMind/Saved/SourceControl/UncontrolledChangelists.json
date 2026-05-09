@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/door_open1.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/flipping.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/takeclue.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/footstep/Foleyfootstep.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/footstep/footstep__1_.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/footstep/footstep__2_.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/footstep/footstep__3_.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/Foley_SFX/footstep/footstep__4_.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/CompletedPuzzleSFX/gearturning1.uasset",
+				"C:/Users/yueer/Desktop/depth-of-mind2/LD202602-depth_of_mind/DepthOfMind/Content/ZH_Assets/SFX/CompletedPuzzleSFX/gearturning2.uasset"
+			]
+		}
+	]
+}
